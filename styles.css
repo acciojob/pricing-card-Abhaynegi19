@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+    background-color: grey;
+}
+#main{
+    margin: 10vh;
+    border: 1px solid grey;
+    background-color: grey;
+    display: block;
+    justify-content: center;
+}
+#image{
+    width: 100%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+}
